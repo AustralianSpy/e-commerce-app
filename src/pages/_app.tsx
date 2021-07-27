@@ -53,21 +53,21 @@ App.getInitialProps = async () => {
         name: "Cinnamon Banana Nut",
         price: 9.00,
         image: "../banana.jpg",
-        description: "The dragon scale betta is a rarer and higher maintenance fish. It is named by its thick white scales covering his sides that looks like dragon scale armor."
+        description: "This plate is a happy medium between light, natural flavors and sweetness. Slices of bananas are layered with honey, chopped walnuts, and sprinkled with cinnamon. Delicious!"
       } as IProduct,
       {
         id: "nextjs_lavender",
         name: "Vanilla Lavender Cranberry",
         price: 12.00,
         image: "../lavender.jpg",
-        description: "The crowntail is pretty common, but interesting none the less. It's recognized by the shape of its tail that has an appearance of a comb."
+        description: "Ever wondered if pancakes could be elegant? Look no further. These pancakes are drizzled with a special vanilla bean and lavendar sauce, giving it that beautiful pink touch and a lightly floral taste. A handful of cranberries give it just a little bit of fruitiness."
       } as IProduct,
       {
         id: "nextjs_caramelapple",
         name: "Caramel Apple Crumble",
         price: 10.00,
         image: "../caramelapple.jpg",
-        description: "By far the most common betta fish. You can recognize it by its long tail aiming downwards."
+        description: "You'll never get enough of this taste of fall. These pancakes have cinnamon baked into them, topped with a creamy caramel sauce, caramelized baked apples, and a sprinkling of chopped walnuts for some crunch."
       } as IProduct
     ]
   };
